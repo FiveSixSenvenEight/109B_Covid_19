@@ -8,3 +8,4 @@ from collections import defaultdict
 
 # Replace these paths with your own absolute paths
 data_path = '../../data/'
+midas_path = data_path+'midas_china_mst/'
